@@ -1,5 +1,5 @@
 _repo: Tales-and-Novels-of-J-de-La-Fontaine-Volume-25_5299
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'Fables, French -- Translations into English'
 - !lcsh 'French poetry -- Translations into English'
+- GITenberg
 tableOfContents: The Dress-maker -- The Gascon -- The Pitcher -- To Promise is One
   Thing, to Keep it, Another -- The Nightingale -- Epitaph of Fontaine.
 title: Tales and Novels of J. de La Fontaine — Volume 25
